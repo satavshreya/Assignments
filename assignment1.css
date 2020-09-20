@@ -1,0 +1,27 @@
+body{
+    background-image: url("img1.jpg");
+    background-size: cover;
+}
+th{
+    background-color: red;
+}
+td{
+background-color: white;
+}
+.p1{
+    background-color: thistle;
+
+}
+.p2{
+background-color: sandybrown;
+}
+.p3{
+    background-color: thistle;
+}
+.p4{
+    background-color: sandybrown;
+}
+a{
+    text-decoration: none;
+    color: skyblue;
+}
